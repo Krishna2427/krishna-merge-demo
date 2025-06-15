@@ -1,3 +1,4 @@
+ krishna1
 import React from 'react'
 
 const About = () => {
@@ -7,3 +8,12 @@ const About = () => {
 }
 
 export default About
+// src/About.js
+import React from 'react';
+
+function About() {
+  return <p>This is About component from krishna branch.</p>;
+}
+
+export default About;
+ main
