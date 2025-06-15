@@ -1,5 +1,9 @@
 {
+ krishna1
+  "name": "react-user2",
+
   "name": "react-user1",
+ main
   "version": "0.1.0",
   "private": true,
   "dependencies": {
